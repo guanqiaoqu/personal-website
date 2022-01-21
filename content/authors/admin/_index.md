@@ -1,7 +1,7 @@
 ---
 title: Guanqiao Qu (曲冠桥)
 role: Postgraduate Student
-avatar_filename: per.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include resource allocation, mobile edge computing,
   vechicular ad hoc network and IoT.
 social: []
