@@ -1,22 +1,15 @@
 ---
 title: Guanqiao Qu (曲冠桥)
 role: Postgraduate Student
-avatar_filename: 微信图片_20220121112732.jpg
+avatar_filename: per.jpg
 bio: My research interests include resource allocation, mobile edge computing,
   vechicular ad hoc network and IoT.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: about/#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+social: []
 organizations:
   - name: Harbin Institute of Technology
     url: ""
+education:
+  courses: []
 email: guanqiaoqu@hit.edu.cn
 superuser: true
 status:
