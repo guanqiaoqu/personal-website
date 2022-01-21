@@ -15,13 +15,11 @@ social:
     icon_pack: fab
     link: https://instagram.com/geocushen
 organizations:
-  - name: 腾讯
+  - name: Harbin Institute of Technology
     url: ""
+email: guanqiaoqu@hit.edu.cn
 superuser: true
 status:
   icon: ☕️
 ---
-
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Guanqiao Qu is currently pursuing the M.Sc. degree in school of electronic and information engineering from Harbin Institute of Technology. He served as a reviewer of ICC 2022.
